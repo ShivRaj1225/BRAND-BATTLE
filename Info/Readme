@@ -1,0 +1,125 @@
+📘 Brand Battle — Build & Launch Plan + README
+
+============================================================
+🚀 10-Day Build & Launch Roadmap (React + Python)
+============================================================
+
+Tech Stack:
+-----------
+- Frontend: React.js + TailwindCSS + Zustand + React Three Fiber
+- Backend: FastAPI (Python) + PostgreSQL + Redis
+- AI: OpenAI / Langchain
+- Deployment: Vercel (Frontend), Render or Railway (Backend)
+
+Day-by-Day Execution Plan:
+---------------------------
+
+🗓️ Day 1: Project Setup
+- Setup GitHub monorepo (frontend, backend)
+- Init Vite + FastAPI project templates
+- Setup CI/CD with Vercel + Railway
+- Configure .env, mock data, theme setup
+- Finalize folder structure
+
+🗓️ Day 2: UI Components & Routing
+- Layouts: Header, Footer, Sidebar, Theme toggle
+- Pages: Home, Compare, Product, About, Login
+- Setup React Router, Framer Motion, responsive layout
+
+🗓️ Day 3: Backend API Core
+- Products, Compare, Categories APIs
+- User Auth (JWT)
+- PostgreSQL models and schema
+
+🗓️ Day 4: Frontend-API Integration
+- Zustand for global state
+- API service setup
+- Product listing + search + filter
+
+🗓️ Day 5: AI Assistant + Comparison Logic
+- Integrate OpenAI or Langchain endpoint
+- Comparison logic: feature-based scoring, pricing, review summary
+- Set up background worker (e.g. Celery)
+
+🗓️ Day 6: Comparison UI
+- Two-column comparison card view
+- Feature match score + chart
+- Verdict summary + pros/cons card
+
+🗓️ Day 7: Notifications + Wishlist
+- Bookmark products
+- Track price drops (mock logic or API)
+- User reviews, reactions
+
+🗓️ Day 8: Animation & Polish
+- Framer Motion transitions
+- Product card hover/fade-in animations
+- Mobile layout fixes
+
+🗓️ Day 9: Deployment & SEO
+- Vercel + Railway deploys
+- Custom domain & SSL
+- Meta tags, sitemap, robots.txt
+- Google Search Console setup
+
+🗓️ Day 10: Final Testing + Launch
+- End-to-end testing (Playwright/Cypress)
+- Video demo + landing copy
+- Launch on Reddit, Product Hunt, and index with Google
+
+
+==========================================
+📄 README.md (Root of GitHub Repo)
+==========================================
+
+# Brand Battle 🥊 — Product Comparison Web App
+
+A modern AI-powered web app to help users choose the best product based on features, price, reviews, and performance.
+
+## 🔧 Tech Stack
+- Frontend: React.js, TailwindCSS, Zustand, React Three Fiber
+- Backend: FastAPI (Python), PostgreSQL, Redis
+- AI Integration: OpenAI (Langchain), product analysis engine
+- Hosting: Vercel (Frontend), Railway/Render (Backend)
+
+## 📁 Monorepo Structure
+```
+root/
+├── frontend/       # React app
+├── backend/        # FastAPI app
+├── docs/           # Diagrams, roadmap, architecture
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Frontend
+```
+cd frontend
+npm install
+npm run dev
+```
+
+### Backend
+```
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+
+## 🧠 Features
+- Product search and filtering
+- Side-by-side AI-enhanced product comparison
+- Real-time verdicts and scoring system
+- 3D animations and modern UI
+- User wishlist + price tracking
+- Light/Dark/Maroon/Teal themes
+
+## 🛠️ Contributing
+Pull requests welcome. For major changes, open an issue first.
+
+## 📜 License
+MIT © 2025 Roshify — Built by Rohit Pote & Tejas Salunkhe
+
+---
+

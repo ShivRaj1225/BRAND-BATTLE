@@ -1,10 +1,17 @@
 import React from 'react'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
+import Landing from './Components/Home/Landing/Landing'
+import MenuBar from './Components/Home/Navbar/MenuBar'
 
 function App() {
   return (
-    <div className=''>
-      Hi
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Landing />} />
+        <Route path="/menubar" element={<MenuBar />} />
+        {/* Add more routes here as needed */}
+      </Routes>
+    </Router>
   )
 }
 
