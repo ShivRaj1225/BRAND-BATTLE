@@ -9,7 +9,7 @@ function Landing() {
      <HeadNav/>
      <div className=''>
      {/* <HomeThree/> // 3D Model Component */}
-     <HeadTag/> 
+     <HeadTag/>
      </div>
     </div>
   )
