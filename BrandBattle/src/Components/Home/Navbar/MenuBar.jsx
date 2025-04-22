@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react'
 import { gsap } from 'gsap'
 import { Home, Info, Phone, TrendingUp, Star, Clock, Award, X } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
+import HomeThree from '../../3D/HomeThree'
 
 function MenuBar() {
   const menuItems = useRef([])
@@ -132,6 +133,7 @@ function MenuBar() {
           </li>
         ))}
       </ul>
+     
     </div>
   )
 }

@@ -2,6 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import Landing from './Components/Home/Landing/Landing'
 import MenuBar from './Components/Home/Navbar/MenuBar'
+import ProductCard from './Components/Products/ProductCards/ProductCard'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Route path="/menubar" element={<MenuBar />} />
         {/* Add more routes here as needed */}
       </Routes>
+     
     </Router>
   )
 }

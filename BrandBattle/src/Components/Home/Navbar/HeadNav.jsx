@@ -21,7 +21,7 @@ function HeadNav() {
     };
 
     return (
-        <div className='bg-[#eef3fd] w-full h-16 flex justify-between items-center px-6 py-10 font-sans shadow-sm relative'>
+        <div className='bg-[#eef3fd] fixed w-full h-16 flex justify-between items-center px-6 py-10 font-sans shadow-sm relative'>
             {/* Sliding Animation */}
             <div
                 ref={slideRef}
