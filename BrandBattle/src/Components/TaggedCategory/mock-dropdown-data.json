@@ -1,0 +1,17 @@
+{
+    "Appliances": {
+      "Home Appliances": [
+        { "name": "ACs", "img": "/images/ac.png", "path": "/appliances/acs" },
+        { "name": "Refrigerators", "img": "/images/fridge.png", "path": "/appliances/refrigerators" }
+      ],
+      "Kitchen Appliances": [
+        { "name": "Mixer Grinders", "img": "/images/mixer.png", "path": "/appliances/mixer-grinders" },
+        { "name": "Microwave Ovens", "img": "/images/microwave.png", "path": "/appliances/microwave-ovens" }
+      ],
+      "Personal Appliances": [
+        { "name": "Trimmers", "img": "/images/trimmer.png", "path": "/appliances/trimmers" },
+        { "name": "Hair Dryers", "img": "/images/hairdryer.png", "path": "/appliances/hair-dryers" }
+      ]
+    }
+  }
+  

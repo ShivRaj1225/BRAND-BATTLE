@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "label": "New Season",
+      "brand": "Longchamp",
+      "name": "Le Pliage makeup bag",
+      "price": "$120",
+      "image": "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dwd97d7f4f/images/DIS/L1621089P68_0.png?sw=2000&sh=2000&sm=fit&q=100"
+    },
+    {
+      "id": 2,
+      "label": "",
+      "brand": "Jacquemus",
+      "name": "The Artichaut baseball cap",
+      "price": "$167",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQTrsLc-JROhxtb9N05oyi6wPhIyuVxKw8w&s"
+    },
+    {
+      "id": 3,
+      "label": "Featured",
+      "brand": "Karl Lagerfeld",
+      "name": "K/Essential Choupette baseball cap",
+      "price": "$176",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrLTyM4UWmVZcwDHr3mvKYOwZA_lcZRy5Jw&s"
+    },
+    {
+      "id": 4,
+      "label": "",
+      "brand": "Gucci Eyewear",
+      "name": "Rimless rectangle-frame sunglasses",
+      "price": "$615",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hED-L4geILyYi6cEhWWPISbkEvdpbIXcFg&s"
+    }
+  ]
+  

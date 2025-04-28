@@ -1,0 +1,277 @@
+[
+  {
+    "name": "LG Front Load Washer",
+    "category": "Appliances",
+    "price": "₹45,999",
+    "features": [
+      "6 Motion Technology",
+      "Inverter Direct Drive",
+      "Smart Diagnosis"
+    ],
+    "function": "Washing Clothes",
+    "bestFor": "Families",
+    "uniqueThings": "Steam Wash for Allergens",
+    "hotDeals": "₹5,000 off on Flipkart",
+    "moreDiscount": {
+      "Amazon": "₹2,000",
+      "Flipkart": "₹5,000",
+      "Croma": "₹3,500"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUcTAXIlnjfOt13oBABPecxhe9vDaQBbKjICLryuUD0hobkDEKvr9wC5xvww_Fu--E7qeC6qATHPGwdFUtJaoAJx7zrlz02FEv5Q4k175AXWDyYnDZnpXryxm8x1t9dn3idE98POQ&usqp=CAc"
+  },
+  {
+    "name": "Philips Air Fryer",
+    "category": "Appliances",
+    "price": "₹9,999",
+    "features": [
+      "Rapid Air Technology",
+      "Non-stick basket"
+    ],
+    "function": "Healthy Frying",
+    "bestFor": "Health Enthusiasts",
+    "uniqueThings": "No oil frying",
+    "hotDeals": "₹1,000 off on Amazon",
+    "moreDiscount": {
+      "Amazon": "₹1,000",
+      "Flipkart": "₹800",
+      "Croma": "₹500"
+    },
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPEBIPDxAQEA8PEA8PDQ8PEBANDw8NFREWFhUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIANwA5QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAABQMEAgYHCAH/xABLEAABAwICBAkFDAcIAwAAAAABAAIDBBEFIQYSMVETIkFhcYGRocEHMlJysRQjQlNikpOissLR0hVDVHOClOEkMzREY6Pw8RZkg//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDuKEJfimM09L/fSBriLtYAXPI9UcnOckGsaVeUSOimfTRwummjsJCXcFG0lodYGxLjYjktntWpVPlRr3HiR00Y5OI97u0ut3LXdIjPLWS1GoJI6iQvABAdFl5rgdosBZw7OVVIpYybO4jhtDhZA+l0/wAVdsqAz1IYPvNKrP0vxR22sl6hGz2NVVsIOYsRvGYRwQQZv0hxF22tqeqZ7PYQozjFcf8AO1v81UfmQY1gWoPv6UrOWsqz01M5+8vn6Tqv2qqPTUTfmWDgsCEErsSqv2qo+nlP3lgMRqv2up+mkPioisCgtjFan9pqPp5fxX39MVXJVVP8xN+ZUiviBg3Ha0bKyrHRVT/mU8WlNe3ZWVH8UrpPtXSdfEGyQ6dYm3ZVuI3Oigd3ll0xpvKdXt89tPIOXWjc13a1wHctKQg6hQ+VdmyopHN3uhkbJ9Vwb7VteEaZUFUQ2Ooa15yEcvvLydw1snHoJXBF8KD02hcH0d00rKEhrXmaAbYJSXN1dzHbWdWXMV27C65tTDHUMuGTMbI0OycARex5wgtIQhAIQhAIQhAIQhALlumDb1ErwbnXLSPV4vgupLkmkcl5pTvlkP1yg199SOVUqosdtAO7eOg8n9VPUNB27d+wpTVxOHmntyPagwe0NN2OI7+/b3qN+JyN3nrDr9o8UtqZXt5D1Zjm6lRfWnfzZoHrcePwm9rTfuJVmHFWv3DqePaFq7a0cyswYkG2y2INrjIdsfGPWcR4KT3IT+sg+l/otfhx8NGzlVxmlIHIgYmjPxkH0o/BYGkPpw/ShVf/ACtu5YnSdp5EFk0x+Mh+lH4LB0Fv1sH0o/BVX6SMtsUuFx+6XCoqo3PpuNwNOHmNkpGx0hAuW3+D18xD4Xx/H0/P76NvYpBGPjIj0Pv4K1NT6znEMjjDgBqRNDIwAAAA3k2BWqhjHtbqwxxSggF8QLWSMAtx2XtrbOMM8kCosaPht6tY+Cjc5g+GPmPKpyY21pLSBdrnNd6wNj3hQuxxu4ILMlW0bCT/APN49qquxM8jXdgHtKgfi7d2/sUBxJu4IG9HUve4cQAb3cbuXW9CdNoYI46OpuxrbiOoJ1mZuJtIPg2va+y22y4lFivOAr9LiLXEDWLyeQZDtKD1O0gi4zBzBGYIX1a35O5i/DoLm5ZwjMzewEjtUdAFh1LZEAhCEAhCEAhCEAuN4w+5J3kntK7DM6zXHc0nsC4ziRQJ5VQqFelVCpKBPWFJqjam9YUnn2oMI2A7QEypaGJ21g7x7EvhTmhQXIMApnbYz1SSDxVtuilIfgP6pZPxVikTKNAlOiVJuk+lcsHaK0u6T6Ry2AqF6BA/Ril3SfSOVttNqNDWvkDWgNaNYZNAsBsV162OgxHDWsp2TQse7UPDv4EDg3jhsy6xdIXXiFrECwO0WQaY5h+Mk+eVE5p9OX6WT8VuM1fhpiDGsaxzow0l0PCPjeaLUuXhg1iJbG4AubuCT1dfBqkMY0kmP9W0NFoYmknK547Xmwte53oNWlw+IkuLLucbuc4ucSd5JKgfRRDZG3sunOJSte8uZsIF8gBrWzsN3Sl0iBfJCwbGtHUFSnCYTKhOgpPV3C3ccdKpPVjDzZw6UHpfyUy61AR6M72/UY7xW5LQPI7Lelmbula75zAPurf0AhCEAhCEAhCEFXFHWglO6KQ/UK49iZzXW8fdalmP+mR25eK5DiRzQKpUvqSr8qXVRQJ6wpRMU0rClUqD7CnNCk0Cc0KB/SJlGllImMaCQqF6kKieUEDyoHlTuSPGsT4M8HHm/wCEeRv9f+dAMogwutI7UbqSnW+WInOYOtwa3+JVHFIoaaR7g57nudk7Uba+ryF5OQB3G5O5Wfcj2XcGyDO5LHsk7Warb9GaC88qvIiGbWaCbHnbfVPOL5joOYXyRBUmVGZXplRmQUZFLRnjDpUci+054wQegfIpNdtQ35MDh1a4PtC6cuQ+RKb32Rm+DW+bI0feXXkAhCEAhCEAhCECnSp1qSXn1B9dq5JiBzXVNMn2pSPSewe0+C5TXnNAtmS2qKYzJXVlAnrClcm1Maspa9BnAnNEk0Cc0SB9SJgxLqVMGFBmSorXIFwLkC5NgOk7lmVDIglxqk9zgcYuBLwbs4MhzQ0nK5y49r72uFslpMbTq8M9pIIkluRk8tGsQDy52HWtpxOodL5+rk3VGqxjLN3cUBag2pdYU8jgGsM0d7WLeFAbrX5RcDo60D+mi1GgE3dte7ldIfOPb4KQqKmm12h2w7Ht5WvHnA9BUhQVpsP4stQ11gwxa7LbXOcW61+TLIjly3KmSmtRWxikkja5rpZpmMc0G5ZHGNYk7rlwSgbEEMqozK9KqUyCjIvkRzX2RYsOaDsfkUmtVgelDK3va77q7evP/kentXwD0uFaeuF9u+y9AIBCEIBCEIBCEIKGOUzZYXMeMja28HeFyHF6QscRe438q6vjuIMi1Y3m3CBxa47AW2yPTfuXM8cPHKDWpkqrCnFSUnxN7WRvkLSdRpdYO1b817FAjqylz19qcUa7zWOG/WI8FX9035EFyBOaJa/DVNG26Z0uJxN2kj+ElBtNKrzClmFy8KzhImyvZcjWZBM8XG0ZNKYt1htjn/lan8iCQlQvKyLz6E38vUD7iieT6EvXFKPaEEEwukWJ4fdwka1pcNrXjWZI3ZZw6OXI7Mxa6ev1vi5Pm29qgfr/ABb/AKg9pQavFVyRu4zJG52DmkOJbsa14dlJYZa2RyVh1XLJlrPt8mNsItzv1ndwunD9b4l/bD+dQv1viyOks8CgoxQ2AFrAbtikcs3uePgjrf8A0VSWd/otvsADiST81ASqnMvldUTRO1JYjE6wOrKx8brHYbOsbKp7oe7YL8nFaTmg+SqJu1ZcHI7Y1xzAybylfDRyHPVPWQLDoKDevJzXcFVwPA1uDmhDwDm1r3hlzu85emV5L8n02pJMfRiZL8yQOXrRAIQhAIQhAIQhBpmn7uNENzHntI/Bc7qZSDa+W5b/AKfO99YN0V+1zvwXPKo5oKVQ9a/pDUN4CVocC6wFr5+cL9yeVCRznLpue0k+KDTGlZhNqqNp2tHYFSMLd3YSEEAWQVqKlad/ar0OExu+E8dBb4hBv3k0/wACP30vtC2mRaFgc0tNGIoZSGAudYsjcS4m5N9VNP0lUH9d/txfggeyqlKlb6yc/rj1RxflVWWeb49/UyD8iBjKUjxPF2RHVsXu5QMgOkr5NPKNs8h/hgHsYtZxqS1gM3OJLiQy5HLmBy3QX5dJWfFu6nBRsx+Nxs4OZzmxHckQzRFSOfcghrW5ve46rG32XPKTbJouTY5ZINkdKHC4IIOwg3C+YfXCnqIp3NLxG/WLRkSLEXHOL3HOAtfa1jDxZHneRGNUnoLs+sBW6Qsfe8bLgXJDBmL2vzbUDfSXSpsksTqcZxNlBfKzUDuEawEBmubAam/ae1LLjUzrauo3L9Wwbb3vndWnADYAOgWUEpQUX1cpJJc+5ABIGrcDYMgFA4uO0nrcVZkUKBno8wsc5wceOx0bwLWLDYkdy9eUjrxsO9jT2gLyJg5zXrHAJNekpn+lTwO7Y2lBfQhCAQhCAQhCDQtPXe/jmhb9p60CqOZW9adO/tDuZjB3E+K0Sp2lAvqCkMp4jfVHsTurOR6Ckc/mgcw9iBVUFVSrM6rFBYgTakSmBNqRA4pyrjSqNOVcaUGTnKrK9SyOVSUoKlS9a5i54zTzEJ9UlIsQF0FJpUznEgN+C25A5NY7T05AX5huVeM9ycmhIyIzGR6UCzVWUYIII3j2pj7jWMtLZpO7NBk4qvIpnKF6CrIoSppFEUDDCTxl6q0MffDqM/8AqwDsjA8F5Sww8ZepfJ9JrYZSH/S1fmuI8EGwoQhAIQhAIQhBzjTZ39pk5hGPqBaRUnMrctMnXqZulo7I2haXUnMoFdeeK71XexJ6tNcSPEd6rh3JRWFAqnVdTTKFBYgTWlKVQJpSoG9OVaaVTgKtAoPjyqkpVl5VSUoKVSUkrE5qUmq0C7ZrHmW9VEI13+u72laM8ZHoK36bzjzknvQVuCVevjtFIdzHHsCulQVjbxyDex4+qUCRygepiVC9BXeoSpnqIoLeHecF6c8l0mthVNzcO3snkXmGh84L0t5I33wuMejJOO2QnxQbmhCEAhCEAhCEHLtLXf2ib1z3ZLTqg7VtWk7/AH+b99KOx5C1KoO1ArxE8U89h2kJPWFNcQOX8TPthKKsoFsqhCllUQQWIUzpkshTKmQNYCrLSqkJVkFAPKqSlWJCqspQUqgpRVJtUJTVIKRC3dpu1p3sjd2sB8VpJW40hvFF+4g7eCaglKwkFwRvBHcsiviDW2G7RzgexYOWUXmj1QO5YuQV3qMqV6jQTUfnBekPI2++GkejUSg/NY7xXm+l84dK9CeRecChladvupx6jDEPBB0ZCxa8FZIBCEIBCEIOP6SO9+mvt4aa/TwhWrVDtq2fTUcHWVDDsL9cdD2h3tJWpTuQLq4+0e26U1RTKsds6fApVUlBRlUakkWAQTwpjTpdEmFOgZwlWAVVhKnBQDyq0pU7yq0hQU6gpXUpnUJZUIKhW3UJ95iP+lGPmjV+6tSK2jCX3p4eZrx2SvCC0V8QviDXiNo3EjsNlG5Sy+c715PtlROQQPUalco0EtPtHSuveTrEOChe2+2QO+qB4LkMO0Le8AnLGZctkHZaLGb8qc02IB3KuUUeJELYcPxM70HRGSgrNa7QV9+VOYJ7oLKF8BX1BzLyuUJY+GqHmyN4B+4Pbdze0F3zVy6Wax8ORejNIsIZXU0lM/LXHEfa5jkGbXDoNukXC8347RTUkz6eobqSxmzhtDhyOaeVp5D4oK1RLe3T4FL6gqSSRVpHIK71iFk5fAgmiTCnS6NwV2CVu9AziKnuqcUzfSCm4dvpDtQZvKryFZOnb6QUD527wggnKWzq9NM3eqErwgrkLZMF/wAPFzCQf7rz4rXHLYMCdenHyZJG/Zd95BfWK+lfCgRVQ47/AF3HtN/FQOUmIOIleOcfZCrayD45Y2WS+gj+m0oM4GZhbnhws1o5lqdIwlw5M9q22jOwIHFKE6ogQldDHdbDQ06BxhrzktkpHZJFRQ2T6kagYxuyX1fY25L4glWuaa6JU+Jw6so1ZoweAnZbhIzu+U08rT3HNbGhB5W0kwKfD5jDOAQbmKRt9SVg5RfYdlxyc4sSkcNx8V6e0x0Vir4XMe2/wgRk9jxsc08h/Eg5LgWkWiNVROOswyxDZKwE5fKbtb3jnQa06+7vWGtzHsv7FLkdmaxIQYh4/wC8lm2Ubx2rFF0Ewm51lw6r6y+a53lBOZudYGYbx2qIuXzXO8oMnSc6wLkEoQYk9PYU90ePvB/fSdmpEkiv4RWCMljjZjiDzNdv6M8+pA9WKLqOaUMGs42A7+YIEmKj351vk/ZCqW5z3KSeQvcXHlKxBzty7epABg/7JKlY1DGE5AXO4JxhuCyyEcU9iCLD4M79i2TDoCSmGGaMvyuLLZ6DAdW2SCphlIclstFBZS0mFEcic0uHHcgjpYU4pYUQUltqtgWQfUIQgEIQgFSr8LinFntF942q6hBzXSDyWwzEvja3WPK3iOPSRt61z3GfJjVxf3etYekzWuN1xZejEIPJtXo5VRedEeoFKZYntdqljgOUkEWK9hS0kb/OjY7paCqU2j1G/wA6niP8NvYg8kliic/jW77iw/5ZerpdCsOdtpY/rDxUJ0Bwz9lZ2lB5ZuN47Qo3yAEDI32m4yXqkeT/AAv9kZ2u/FSt0Hwwf5OL6x8UHlS43+K+ODstVpOefFdkF6xZofhw2UcPzbqwzRuib5tNEOhgQeTG00h82KQ9DCphg1U+wZBLznV5F6ybgtONkTB0NaPBZjDohsaAg8v0ejmJbGRSNG43sOq2SuDQKvmIMmVvSP4r0sMPj9FH6Oi9FBwGj8l0zvPlA6P6J/h/kmiGb3l2/LauxspIxsaFK2MDYAg5/h3k5p47WYOvNP6bRWJmwNHQFsaECuLBIx/0rMeHxt5FbQgwbC0bAFmhCAQhCAQhCD//2Q=="
+  },
+  {
+    "name": "Dyson Vacuum Cleaner",
+    "category": "Appliances",
+    "price": "₹32,499",
+    "features": [
+      "Cord-free",
+      "Powerful Suction"
+    ],
+    "function": "Home Cleaning",
+    "bestFor": "Pet Owners",
+    "uniqueThings": "HEPA Filter",
+    "hotDeals": "₹3,000 off on Croma",
+    "moreDiscount": {
+      "Amazon": "₹2,000",
+      "Flipkart": "₹2,500",
+      "Croma": "₹3,000"
+    },
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/13/51/vacuum-cleaner-1868703_960_720.jpg"
+  },
+  {
+    "name": "Maybelline Foundation",
+    "category": "Beauty",
+    "price": "₹499",
+    "features": [
+      "Matte Finish",
+      "Full Coverage"
+    ],
+    "function": "Makeup Base",
+    "bestFor": "Daily Use",
+    "uniqueThings": "SPF 22",
+    "hotDeals": "Combo offer on Amazon",
+    "moreDiscount": {
+      "Amazon": "₹50",
+      "Flipkart": "₹30",
+      "Nykaa": "₹60"
+    },
+    "image": "https://cdn.pixabay.com/photo/2017/06/28/02/30/foundation-2450325_960_720.jpg"
+  },
+  {
+    "name": "Lakme Lipstick",
+    "category": "Beauty",
+    "price": "₹299",
+    "features": [
+      "Long Lasting",
+      "Moisturizing"
+    ],
+    "function": "Lip Color",
+    "bestFor": "All Skin Types",
+    "uniqueThings": "Shea Butter Infused",
+    "hotDeals": "Buy 2 Get 1 on Nykaa",
+    "moreDiscount": {
+      "Amazon": "₹20",
+      "Flipkart": "₹25",
+      "Nykaa": "₹50"
+    },
+    "image": "https://cdn.pixabay.com/photo/2017/08/06/22/01/lipstick-2591671_960_720.jpg"
+  },
+  {
+    "name": "L'Oreal Shampoo",
+    "category": "Beauty",
+    "price": "₹349",
+    "features": [
+      "Keratin Smooth",
+      "Anti-Frizz"
+    ],
+    "function": "Hair Cleansing",
+    "bestFor": "Frizzy Hair",
+    "uniqueThings": "72HR Smooth",
+    "hotDeals": "₹50 off on Flipkart",
+    "moreDiscount": {
+      "Amazon": "₹30",
+      "Flipkart": "₹50",
+      "Nykaa": "₹40"
+    },
+    "image": "https://cdn.pixabay.com/photo/2020/02/13/21/47/shampoo-4845370_960_720.jpg"
+  },
+  {
+    "name": "Dove Daily Shine Shampoo",
+    "category": "Beauty",
+    "price": "₹199",
+    "features": [
+      "Nourishing Nutri-Oils",
+      "Vita-Oils Blend"
+    ],
+    "function": "Hair Cleansing",
+    "bestFor": "Dry Hair",
+    "uniqueThings": "Shampoo & Conditioner Duo",
+    "hotDeals": "10% off on Amazon",
+    "moreDiscount": {
+      "Amazon": "₹100",
+      "Flipkart": "₹120",
+      "Nykaa": "₹150"
+    },
+    "image": "https://cdn.pixabay.com/photo/2020/04/05/06/51/aveda-5003437_960_720.jpg"
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "category": "Electronics",
+    "price": "₹1,29,900",
+    "features": [
+      "A16 Bionic Chip",
+      "ProMotion Display"
+    ],
+    "function": "Smartphone",
+    "bestFor": "Premium Users",
+    "uniqueThings": "Dynamic Island",
+    "hotDeals": "₹5,000 cashback on HDFC",
+    "moreDiscount": {
+      "Amazon": "₹3,000",
+      "Flipkart": "₹2,000",
+      "Croma": "₹4,000"
+    },
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOR6k5qDPOYxL_o-buguDEWwxq37PX7Nrlo_oVhAmAZxyfYqDXFbblgLBVR9RyqXJ42y8Sxzni7zk9_8G5iA7taAxCN9IC_Pq8-yx0kW0nMP7y3__uqYuP2Sq9"
+  },
+  {
+    "name": "Samsung Galaxy S23",
+    "category": "Electronics",
+    "price": "₹99,999",
+    "features": [
+      "Snapdragon 8 Gen 2",
+      "120Hz AMOLED"
+    ],
+    "function": "Smartphone",
+    "bestFor": "Gaming & Multimedia",
+    "uniqueThings": "Armor Aluminum Frame",
+    "hotDeals": "15% off with ICICI Cards",
+    "moreDiscount": {
+      "Amazon": "Free Wireless Charger",
+      "Flipkart": "No Cost EMI",
+      "Croma": "₹3,000"
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGg4zLWo4t0acbWyKRSgHT0vK_-qvSQX5NHQ&s"
+  },
+  {
+    "name": "OnePlus 11",
+    "category": "Electronics",
+    "price": "₹61,999",
+    "features": [
+      "Snapdragon 8 Gen 2",
+      "Hasselblad Camera"
+    ],
+    "function": "Smartphone",
+    "bestFor": "Tech Enthusiasts",
+    "uniqueThings": "80W SuperVOOC Charging",
+    "hotDeals": "₹2,000 exchange bonus",
+    "moreDiscount": {
+      "Amazon": "Extra ₹1,000 coupon",
+      "Flipkart": "Free screen replacement",
+      "Croma": "₹1,500"
+    },
+    "image": "https://cdn.pixabay.com/photo/2023/02/14/12/55/oneplus-11-7980210_960_720.jpg"
+  },
+  {
+    "name": "Google Pixel 7",
+    "category": "Electronics",
+    "price": "₹56,999",
+    "features": [
+      "Tensor G2 Chip",
+      "Dual-tone Design"
+    ],
+    "function": "Smartphone",
+    "bestFor": "Photography",
+    "uniqueThings": "Clean Android Experience",
+    "hotDeals": "Free Pixel Buds",
+    "moreDiscount": {
+      "Amazon": "₹1,500",
+      "Flipkart": "₹1,000",
+      "Croma": "₹1,200"
+    },
+    "image": "https://cdn.pixabay.com/photo/2023/04/01/08/50/pixel-7-7913651_960_720.jpg"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Electronics",
+    "price": "₹1,20,000",
+    "features": [
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD"
+    ],
+    "function": "Laptop",
+    "bestFor": "Business Professionals",
+    "uniqueThings": "Carbon Fiber Build",
+    "hotDeals": "₹10,000 off on Lenovo Store",
+    "moreDiscount": {
+      "Amazon": "₹8,000",
+      "Flipkart": "₹7,000",
+      "Lenovo Store": "₹12,000"
+    },
+    "image": "https://cdn.pixabay.com/photo/2017/02/22/00/05/laptop-2090403_960_720.jpg"
+  },
+  {
+    "name": "MacBook Air M2",
+    "category": "Electronics",
+    "price": "₹1,25,000",
+    "features": [
+      "M2 Chip",
+      "8GB RAM",
+      "512GB SSD"
+    ],
+    "function": "Laptop",
+    "bestFor": "Everyday Use",
+    "uniqueThings": "Fanless Design",
+    "hotDeals": "₹7,000 off on Apple Store",
+    "moreDiscount": {
+      "Amazon": "₹5,000",
+      "Flipkart": "₹4,000",
+      "Apple Store": "₹7,000"
+    },
+    "image": "https://cdn.pixabay.com/photo/2023/01/19/10/33/macbook-air-7728167_960_720.jpg"
+  },
+  {
+    "name": "Cool Blender",
+    "image": "https://example.com/images/blender.png",
+    "category": "Appliances",
+    "price": "$49.99",
+    "features": [
+      "500W Motor",
+      "Stainless Steel Blades",
+      "2-Year Warranty"
+    ],
+    "function": "Blend fruits, vegetables, and ice",
+    "bestFor": "Smoothies and shakes",
+    "uniqueThings": "Has a self-cleaning mode",
+    "hotDeals": "10% off on Amazon",
+    "moreDiscount": {
+      "Amazon": "$45.99",
+      "Flipkart": "$47.99",
+      "BestBuy": "$48.99"
+    },
+    "links": {
+      "Amazon": "https://www.amazon.com/dp/exampleID",
+      "Flipkart": "https://www.flipkart.com/blender-example",
+      "BestBuy": "https://www.bestbuy.com/site/blender-example"
+    }
+  }
+]

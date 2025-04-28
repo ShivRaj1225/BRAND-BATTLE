@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "description": "Apple A17 Pro chip, Dynamic Island, Titanium body.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max",
+      "price": "$1199",
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Snapdragon 8 Gen 3, 200MP camera, 100x Zoom.",
+      "image": "https://images.samsung.com/s24-ultra.jpg",
+      "price": "$1299",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 8 Pro",
+      "description": "Tensor G3 chip, AI features, Magic Editor.",
+      "image": "https://store.google.com/pixel8-pro.jpg",
+      "price": "$999",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 12",
+      "description": "Snapdragon 8 Gen 3, 100W charging, Hasselblad camera.",
+      "image": "https://image.oneplus.com/oneplus-12.jpg",
+      "price": "$799",
+      "rating": 4.6
+    },
+    {
+        "id": 5,
+        "name": "Nothing Phone (2)",
+        "description": "Glyph Interface, Snapdragon 8+ Gen 1, clean OS experience.",
+        "image": "https://cdn.shopify.com/s/files/1/0661/9630/7113/products/nothing-phone-2.jpg",
+        "price": "$699",
+        "rating": 4.5
+      },
+      {
+        "id": 6,
+        "name": "Xiaomi 14 Ultra",
+        "description": "Leica camera system, Snapdragon 8 Gen 3, 2K AMOLED screen.",
+        "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-14-ultra/overview01.png",
+        "price": "$899",
+        "rating": 4.7
+      },
+      {
+        "id": 7,
+        "name": "ASUS ROG Phone 8 Pro",
+        "description": "Gaming Beast, Snapdragon 8 Gen 3, 165Hz AMOLED, AeroActive cooling.",
+        "image": "https://dlcdnrog.asus.com/rog_media/ROG-Phone-8-Pro.png",
+        "price": "$1099",
+        "rating": 4.8
+      },
+      {
+        "id": 8,
+        "name": "Realme GT 5 Pro",
+        "description": "Snapdragon 8 Gen 3, 100W fast charging, Flagship killer.",
+        "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt5-pro.jpg",
+        "price": "$649",
+        "rating": 4.5
+      },
+      {
+        "id": 9,
+        "name": "Sony Xperia 1 VI",
+        "description": "4K OLED Display, Snapdragon 8 Gen 3, Professional camera tuning.",
+        "image": "https://www.sony.com/image/xperia-1-vi.jpg",
+        "price": "$1299",
+        "rating": 4.6
+      },
+      {
+        "id": 10,
+        "name": "Motorola Edge 50 Ultra",
+        "description": "Snapdragon 8s Gen 3, Pantone-validated OLED, 125W fast charging.",
+        "image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-50-ultra.jpg",
+        "price": "$799",
+        "rating": 4.5
+      },
+      {
+        "id": 11,
+        "name": "Vivo X100 Pro",
+        "description": "MediaTek Dimensity 9300, ZEISS optics, massive battery life.",
+        "image": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x100-pro.jpg",
+        "price": "$999",
+        "rating": 4.6
+      },
+      {
+        "id": 12,
+        "name": "HONOR Magic6 Pro",
+        "description": "Snapdragon 8 Gen 3, 180MP telephoto lens, LTPO OLED screen.",
+        "image": "https://fdn2.gsmarena.com/vv/pics/honor/honor-magic6-pro.jpg",
+        "price": "$1199",
+        "rating": 4.7
+      }
+      
+      
+  ]
+  

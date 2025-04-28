@@ -20,6 +20,10 @@ function HeadNav() {
         });
     };
 
+    const handleLoginClick = () => {
+        navigate('/signin'); // Navigate to login page
+    }
+
     return (
         <div className='bg-[#eef3fd] fixed w-full h-16 flex justify-between items-center px-6 py-10 font-sans shadow-sm relative'>
             {/* Sliding Animation */}
@@ -41,7 +45,8 @@ function HeadNav() {
                 <li className="list-none hover:text-[#3b5bdb]">About</li>
                 <li className="list-none hover:text-[#3b5bdb]">Contact</li>
                 <li className="list-none hover:text-[#3b5bdb]">Top Comparison</li>
-                <button className='bg-transparent border-solid border-2 border-[#192654] text-[#0b0f3c] px-4 py-1.5 rounded-lg hover:bg-[#192654] hover:text-white transition-all'>
+                <button className='bg-transparent border-solid border-2 border-[#192654] text-[#0b0f3c] px-4 py-1.5 rounded-lg hover:bg-[#192654] hover:text-white transition-all'
+                    onClick={handleLoginClick}>
                     Login
                 </button>
                 <div

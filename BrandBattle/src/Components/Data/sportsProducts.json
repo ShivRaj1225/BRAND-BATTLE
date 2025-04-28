@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Wilson Evolution Basketball",
+      "description": "Official size, moisture-wicking composite cover, best indoor grip.",
+      "image": "https://images.wilson.com/is/image/Wilson/evolution-basketball",
+      "price": "$74.99",
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Yonex Astrox 100ZZ Badminton Racket",
+      "description": "Ultra-lightweight, high tension, ultimate smash power.",
+      "image": "https://www.yonex.com/media/catalog/product/astrox-100zz.jpg",
+      "price": "$259.99",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Nike Mercurial Vapor 15 Soccer Cleats",
+      "description": "Zoom Air unit, ultra-light upper, elite speed performance.",
+      "image": "https://static.nike.com/mercurial-vapor-15.jpg",
+      "price": "$249.99",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Adidas Predator Accuracy Goalkeeper Gloves",
+      "description": "High-grip latex, wrist support strap, finger protection tech.",
+      "image": "https://assets.adidas.com/predator-goalkeeper-gloves.jpg",
+      "price": "$139.99",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Trek Marlin 7 Mountain Bike",
+      "description": "RockShox suspension, Shimano drivetrain, trail-ready geometry.",
+      "image": "https://trek.scene7.com/is/image/TrekBicycleProducts/Marlin7",
+      "price": "$999.99",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Callaway Rogue ST Max Driver",
+      "description": "High MOI, Jailbreak Speed Frame, adjustable loft sleeve.",
+      "image": "https://d2x02matzb08hy.cloudfront.net/callaway-rogue-st-max-driver.jpg",
+      "price": "$499.99",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Spalding NBA Portable Basketball Hoop",
+      "description": "Adjustable height, acrylic backboard, arena-style design.",
+      "image": "https://images.spalding.com/portable-hoop-nba.jpg",
+      "price": "$349.99",
+      "rating": 4.6
+    },
+    {
+      "id": 8,
+      "name": "Under Armour F8 Football Gloves",
+      "description": "Tacky Grip palms, lightweight feel, breathable comfort.",
+      "image": "https://underarmour.scene7.com/is/image/Underarmour/f8-football-gloves",
+      "price": "$44.99",
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Franklin Sports MLB Electronic Pitching Machine",
+      "description": "Adjustable pitching angles, automatic ball feeder.",
+      "image": "https://images.franklinsports.com/electronic-pitching-machine.jpg",
+      "price": "$89.99",
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "name": "Speedo Vanquisher 2.0 Swim Goggles",
+      "description": "Wide panoramic lens, UV protection, anti-fog coating.",
+      "image": "https://images.speedousa.com/vanquisher-2-swim-goggles.jpg",
+      "price": "$21.99",
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "name": "Rawlings Heart of the Hide Baseball Glove",
+      "description": "World-renowned leather, professional break-in, strong pocket.",
+      "image": "https://rawlings.scene7.com/is/image/Rawlings/heart-of-the-hide-glove",
+      "price": "$299.99",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Titleist Pro V1 Golf Balls (Dozen)",
+      "description": "Exceptional distance, soft feel, long-lasting durability.",
+      "image": "https://d3d71ba2asa5oz.cloudfront.net/titleist-pro-v1-golf-balls.jpg",
+      "price": "$54.99",
+      "rating": 4.9
+    }
+  ]
+  

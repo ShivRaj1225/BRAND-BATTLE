@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "LG Front Load Washing Machine",
+      "image": "/images/appliances/lg_washing_machine.png",
+      "price": "$750",
+      "description": "6.5kg Inverter Front Load Washer with Smart Diagnosis",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Samsung 500L Double Door Refrigerator",
+      "image": "/images/appliances/samsung_refrigerator.png",
+      "price": "$1200",
+      "description": "Smart Convertible 5-in-1 Double Door Fridge",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "name": "Philips Air Fryer XXL",
+      "image": "/images/appliances/philips_airfryer.png",
+      "price": "$320",
+      "description": "Rapid Air Technology for Healthier Cooking",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Dyson V11 Vacuum Cleaner",
+      "image": "/images/appliances/dyson_vacuum.png",
+      "price": "$650",
+      "description": "Cordless Powerful Suction Vacuum",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "name": "Whirlpool Solo Microwave Oven",
+      "image": "/images/appliances/whirlpool_microwave.png",
+      "price": "$180",
+      "description": "20L Solo Microwave with Auto Cook",
+      "rating": 4.5
+    }
+  ]
+  

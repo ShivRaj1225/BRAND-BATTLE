@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "iPad Pro M4 (2025)",
+      "description": "Apple M4 chip, ProMotion 120Hz, Liquid Retina XDR display.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-m4-2025.jpg",
+      "price": "$1299",
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Tab S9 Ultra",
+      "description": "14.6-inch AMOLED, Snapdragon 8 Gen 2, S Pen included.",
+      "image": "https://images.samsung.com/galaxy-tab-s9-ultra.jpg",
+      "price": "$1199",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel Tablet Pro",
+      "description": "Tensor G3 chip, 2K display, optimized for Android 15.",
+      "image": "https://store.google.com/pixel-tablet-pro.jpg",
+      "price": "$899",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "OnePlus Pad Pro",
+      "description": "Snapdragon 8 Gen 3, 144Hz display, Dolby Vision.",
+      "image": "https://image.oneplus.com/oneplus-pad-pro.jpg",
+      "price": "$699",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Pad 6 Max",
+      "description": "Snapdragon 8+ Gen 1, 14-inch 120Hz screen, massive battery.",
+      "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-pad-6-max.png",
+      "price": "$599",
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Surface Pro 10",
+      "description": "Intel Core Ultra 7, 120Hz PixelSense Flow display, Windows 11.",
+      "image": "https://cdn.microsoftsurface.com/surface-pro-10.jpg",
+      "price": "$1399",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Lenovo Tab Extreme",
+      "description": "Dimensity 9000 chip, OLED screen, Dolby Atmos sound.",
+      "image": "https://p2-ofp.static.pub/lenovo-tab-extreme.jpg",
+      "price": "$749",
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "name": "HONOR Pad 9 Pro",
+      "description": "Snapdragon 8 Gen 2, 3K display, ultra-slim design.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/honor/honor-pad-9-pro.jpg",
+      "price": "$549",
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "name": "Huawei MatePad Pro 13.2",
+      "description": "Kirin 9000S, OLED display, HarmonyOS 4.",
+      "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/tablets/matepad-pro-13-2.jpg",
+      "price": "$899",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "name": "Realme Pad 2 Pro",
+      "description": "Snapdragon 7s Gen 2, 120Hz LCD, affordable flagship.",
+      "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-pad-2-pro.jpg",
+      "price": "$399",
+      "rating": 4.2
+    }
+  ]
+  
